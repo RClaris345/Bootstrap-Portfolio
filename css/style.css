@@ -1,0 +1,43 @@
+body {
+    background-image: url("fancy-cushion.png");
+    background-color: black; 
+}
+
+#main-bio {
+    margin-top: 60px;
+    min-height: 400px;
+}
+
+h1{
+    border-bottom: solid black;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    margin-right: 20px;
+    float: left;
+}
+
+footer {
+    background-color: whitesmoke;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    height: 90px;
+    text-align: center;
+    color: grey; 
+}
+
+.container{
+width: 60%; 
+}
+
+
+.clearfix {
+    clear: both;
+}
+.col2{
+    width: 100px;
+}
