@@ -3,9 +3,15 @@ body {
     background-color: black; 
 }
 
+.mt-20{
+    margin-top: 20px;
+}
+
 #main-bio {
     margin-top: 60px;
     min-height: 400px;
+    margin-bottom: 150px;
+    padding: 30px;
 }
 
 h1{
@@ -32,6 +38,7 @@ footer {
 
 .container{
 width: 60%; 
+
 }
 
 
@@ -39,5 +46,6 @@ width: 60%;
     clear: both;
 }
 .col2{
+    max-width:100%;
     width: 100px;
 }
